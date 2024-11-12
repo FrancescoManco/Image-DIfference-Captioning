@@ -4,11 +4,9 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-# Applying the concept of Image Difference Captioning (IDC) to the artistic context: The project aims to develop a tool to automatically describe the differences between two works of art.
-
-# Utility for art critics and conservation of artworks: The difference analysis can support the work of critics and assist in cataloging artworks.
-
-# Creating a dataset for this purpose: A dataset of paired art images is created to train the model.
+Applying the concept of Image Difference Captioning (IDC) to the artistic context: The project aims to develop a tool to automatically describe the differences between two works of art.
+Utility for art critics and conservation of artworks: The difference analysis can support the work of critics and assist in cataloging artworks.
+Creating a dataset for this purpose: A dataset of paired art images is created to train the model.
 
 ## Project Organization
 
